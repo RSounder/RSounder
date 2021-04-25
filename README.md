@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RSounder
+- 👀 I’m interested in Machine Learning, IoT and robotics
+- 🌱 I’m currently learning JS and flutter
+- 💞️ I’m looking to collaborate on any python/JS projects
+- 📫 Contact: emailtorsounder@gmail.com or Sounder Rajendran at LinkedIn
