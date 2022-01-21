@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RSounder
-- 👀 I’m interested in Machine Learning, IoT and robotics
+- 👀 I’m interested in Machine Learning, IoT and robotics (ROS)
 - 🌱 I’m currently learning JS and flutter
 - 💞️ I’m looking to collaborate on any python/JS projects
-- 📫 Contact: emailtorsounder@gmail.com or Sounder Rajendran at LinkedIn
+- 🌐 Personal Website: https://sounder.world/
+- 📫 Contact: sounderajendran@gmail.com or Sounder Rajendran (https://linkedin.com/in/sounder-dev) at LinkedIn
